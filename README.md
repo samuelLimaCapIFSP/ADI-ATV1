@@ -18,5 +18,5 @@ Utilize o kotlin command-line compiler (https://kotlinlang.org/docs/command-line
 
 # Informações do aluno
 
-Nome: Samuel de Lima Capusesera
-Prontu
+Nome: Samuel de Lima Capusesera,
+Prontuário: GU3012565
