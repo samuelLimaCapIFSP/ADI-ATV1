@@ -15,3 +15,8 @@ Abra o projeto no intelliJ que ele entenderá como rodar
 
 ## Alternativa 2
 Utilize o kotlin command-line compiler (https://kotlinlang.org/docs/command-line.html)
+
+# Informações do aluno
+
+Nome: Samuel de Lima Capusesera
+Prontu
